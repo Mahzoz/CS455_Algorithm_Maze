@@ -14,7 +14,7 @@ https://elib.npu.edu:2053/docview/1912514872/8191B417FFEA4E85PQ/3?accountid=3144
 
 ## Application of short path
 
-The applications of shortest path computations are too numerous to cite in detail. They include situations in which an actual path is the desired output, such as robot motion planning, highway and power line engineer- ing, and network connection routing. They include problems of scheduling such as critical path computation in PERT charts. https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
+The applications of shortest path computations are too numerous to cite in detail. They include situations in which an actual path is the desired output, such as robot motion planning, highway and power line engineering, and network connection routing. They include problems of scheduling such as critical path computation in PERT charts. https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
 
 
 ## Refrences
