@@ -1,6 +1,6 @@
 ## Shortest path (Maze)
 
-The shortest path problem is about finding a path between vertices in a graph such that the total sum of the edges weights is minimum.One of the application of path finding is for finding optimum route navaigation systems.
+A maze is a path or collection of paths, typically from a source to a destination. In graph theory, the shortest path problem is the problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized.
 
 ## Introduction
 
@@ -12,13 +12,16 @@ The shortest path problem is one of the most fundamental problems applicable in 
 
 https://elib.npu.edu:2053/docview/1912514872/8191B417FFEA4E85PQ/3?accountid=31440
 
-## Application of short path
+Application of short path
 
-The applications of shortest path computations are too numerous to cite in detail. They include situations in which an actual path is the desired output, such as robot motion planning, highway and power line engineering, and network connection routing. They include problems of scheduling such as critical path computation in PERT charts. https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
+The applications of shortest path computations are too numerous to cite in detail. They include situations in which an actual path is the desired output, such as robot motion planning, highway and power line engineer- ing, and network connection routing. They include problems of scheduling such as critical path computation in PERT charts. https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
 
 
 ## Refrences
 
 https://elib.npu.edu:2053/docview/1912514872/5FD29CC6AEF5440FPQ/1?accountid=31440
 https://elib.npu.edu:2053/docview/1912514872/8191B417FFEA4E85PQ/3?accountid=31440
-https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
+https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440.
+https://en.wikipedia.org/wiki/Shortest_path_problem
+
+
