@@ -17,8 +17,13 @@ Application of short path
 The applications of shortest path computations are too numerous to cite in detail. They include situations in which an actual path is the desired output, such as robot motion planning, highway and power line engineer- ing, and network connection routing. They include problems of scheduling such as critical path computation in PERT charts. https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
 
 <details>
+<summary>Below is the document for Week10-Q6_Step1</summary>
+<a href="https://github.com/Mahzoz/CS455_Algorithm_Maze_Project/blob/main/CS455_Week10-Q6_Step1_19560_Farishta.pdf"> document</a>
+</details>
+
+<details>
 <summary>Below is the document with detailed instruction</summary>
-<a href=""> document</a>
+<a href="https://github.com/Mahzoz/CS455_Algorithm_Maze_Project/blob/main/CS455_Week10-Q6_Step1_19560_Farishta.pdf"> document</a>
 </details>
 
 <details>
