@@ -22,8 +22,8 @@ The applications of shortest path computations are too numerous to cite in detai
 </details>
 
 <details>
-<summary>Below is the document with detailed instruction</summary>
-<a href="https://github.com/Mahzoz/CS455_Algorithm_Maze_Project/blob/main/CS455_Week10-Q6_Step1_19560_Farishta.pdf"> document</a>
+<summary>Below is the document for Week11_Q24</summary>
+<a href="https://github.com/Mahzoz/CS455_Algorithm_Maze_Project/blob/main/CS455-Week11-Q24-19560-Farishta.pdf"> document</a>
 </details>
 
 <details>
